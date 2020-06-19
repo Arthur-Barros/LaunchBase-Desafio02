@@ -7,16 +7,10 @@ Repositório dos desafios do LaunchBase da Rocketseat
   <img src="YOUR_LOGO_URL" alt="YOUR_PROJECT_NAME" width="120">
 <br>
 <br>
-YOUR_PROJECT_NAME
+Desafios do Launch Base
 </h1>
 
-<p align="center">A little description about your project</p>
-
-<p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
-  </a>
-</p>
+<p align="center">Desafios feito para melhorar e praticar os conhecimentos adquiridos em aulas</p>
 
 ## Features
 [//]: # (Add the features of your project here:)
