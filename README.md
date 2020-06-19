@@ -12,6 +12,7 @@ Desafios do Launch Base
 [//]: # (Add the features of your project here:)
 
 
-- ⚛️ **React Js** — A JavaScript library for building user interfaces
-- ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
-- 💹 **Node Js** — A web framework for Node Js
+-   **JavaScript** 
+-   **Html** 
+-   **Node Js**
+-   **Css**
