@@ -1,7 +1,4 @@
 ## Desafio 02
-<h1>
-  <img src="https://ik.imagekit.io/xlj9cejf8v/desafio02_fgsM5J7Dy.gif" alt="gif referente a home">
-</h1>
 
 # Indice
 - [Sobre](#-sobre)
