@@ -12,7 +12,7 @@
 
 
 # Indice
-- [Sobre](#sobre) | [Tecnologias utilizadas](#tecnologias-utilizadas) | [Como rodar o projeto](#como-rodar-o-projeto)
+- [Sobre](#sobre) | [Tecnologias utilizadas](#tecnologias-utilizadas) | [Como utilizar](#como-utilizar) | [Como rodar o projeto](#como-rodar-o-projeto)
 
 ## Sobre
 
