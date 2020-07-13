@@ -5,11 +5,11 @@
 **<p align="center">Desafio desenvolvido para melhorar e praticar os conceitos de JavaScript, Html, Css, entre outros</p>**
 
 ## Desafio 02
+
 ### Visualização
 <h1>
   <img src="https://ik.imagekit.io/xlj9cejf8v/desafio02_ssvUzC5wu.gif" alt="desafio02">
 </h1>
-
 
 # Indice
 - [Sobre](#sobre) | [Tecnologias utilizadas](#tecnologias-utilizadas) | [Como utilizar](#como-utilizar) | [Como rodar o projeto](#como-rodar-o-projeto)
