@@ -14,6 +14,8 @@
 # Indice
 - [Sobre](#sobre) | [Tecnologias utilizadas](#tecnologias-utilizadas) | [Como utilizar](#como-utilizar) | [Como rodar o projeto](#como-rodar-o-projeto)
 
+---
+
 ## Sobre
 
 O projeto **Desafio02** foi desenvolvido no curso do **Bootcamp Launch Base**, com o objetivo de práticar todo conteúdo estudado dentro do curso. 
