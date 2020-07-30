@@ -6,23 +6,23 @@
 
 ## Desafio 02
 
-### Visualização
+### :movie_camera: Visualização
 <h1>
   <img src="https://ik.imagekit.io/xlj9cejf8v/desafio02_ssvUzC5wu.gif" alt="desafio02">
 </h1>
 
-# Indice
+# :computer: Indice
 - [Sobre](#sobre) | [Tecnologias utilizadas](#tecnologias-utilizadas) | [Como utilizar](#como-utilizar) | [Como rodar o projeto](#como-rodar-o-projeto)
 
 ---
 
-## Sobre
+## :bookmark: Sobre
 
 O projeto **Desafio02** foi desenvolvido no curso do **Bootcamp Launch Base**, com o objetivo de práticar todo conteúdo estudado dentro do curso. 
 
 ---
 
-## Tecnologias utilizadas
+## :rocket: Tecnologias utilizadas
 
 o projeto foi desenvolvido usando as seguintes tecnologias
 
@@ -32,13 +32,13 @@ o projeto foi desenvolvido usando as seguintes tecnologias
 
 ---
 
-## Como utilizar
+## :electric_plug: Como utilizar
 Para executar essa aplicação você vai precisar dos seguintes softwares instalados em seu computador:
 - [Git](https://git-scm.com/)
 
 ---
 
-## Como rodar o projeto
+## :file_folder: Como rodar o projeto
 
 ```bash
 # Clonar repositório
@@ -53,4 +53,4 @@ $ Baixar a extensão no VsCode, e depois clicar encima do html e open Live Sever
 ```
 ---
 
-Desenvolvido por **Arthur Barros** [Entre em contato](https://www.linkedin.com/in/arthur-barros-/)
+Desenvolvido por :purple_heart: **Arthur Barros** :email: [Entre em contato](https://www.linkedin.com/in/arthur-barros-/)
